@@ -32,3 +32,5 @@ class User(db.Model):
 ```
 
 As of March 2021, it is important to remain with SQLAlchemy version 1.3.x in order for flask_sqlalchemy to work.
+
+The rest of the example code shows basic queries and CRUD operations.
